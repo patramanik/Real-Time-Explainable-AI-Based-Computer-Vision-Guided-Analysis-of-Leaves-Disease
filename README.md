@@ -93,16 +93,17 @@ Diagnostic trust is verified through a complementary 5-panel XAI suite evaluated
 ## 📁 Repository Structure
 
 ```text
-├── figures/                               # Architectural and evaluation figures
-│   ├── system_architecture.png            # End-to-end framework pipeline
-│   ├── per_class_metrics_38cls.png        # 38-class precision/recall/F1 chart
-│   └── xai_transparency_suite_5panel.png  # 5-panel XAI transparency suite
-├── main.tex                               # Complete LaTeX paper source (Springer LNCS)
-├── main.pdf                               # Compiled 11-page publication PDF
-├── llncs.cls                              # Official Springer LNCS document class
-├── Real_Time_Explainable_AI_Plant_Disease_Colab.ipynb # Interactive training & XAI notebook
-├── .gitignore                             # Git ignore rules for LaTeX, Python, & ML
-└── README.md                              # Project documentation
+├── figures/                                    # Architectural and evaluation figures
+│   ├── system_architecture.png                 # End-to-end framework pipeline
+│   ├── per_class_metrics_38cls.png             # 38-class precision/recall/F1 chart
+│   └── xai_transparency_suite_5panel.png       # 5-panel XAI transparency suite
+├── notebooks/                                  # Research & training notebooks
+│   └── Real_Time_Explainable_AI_Plant_Disease_Colab.ipynb # Interactive Google Colab pipeline
+├── main.tex                                    # Complete LaTeX paper source (Springer LNCS)
+├── main.pdf                                    # Compiled 11-page publication PDF
+├── llncs.cls                                   # Official Springer LNCS document class
+├── .gitignore                                  # Git ignore rules for LaTeX, Python, & ML
+└── README.md                                   # Comprehensive documentation
 ```
 
 ---
