@@ -78,3 +78,14 @@ desktop.ini
 *~
 download*.png
 download (*).png
+
+# Literature and reference papers
+papers/
+
+# Compressed archives
+*.zip
+*.tar.gz
+*.gz
+*.rar
+*.7z
+
